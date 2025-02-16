@@ -1,6 +1,6 @@
 <!------------------HEADER------------------>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26vUucK24XyuAy9a0/giphy.gif?cid=790b76115yknv3ilv3zj60kzlivrv2baf9otj1kuw0m8ru0f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%"/>
+  <img src="https://media.giphy.com/media/26vUucK24XyuAy9a0/giphy.gif?cid=790b76115yknv3ilv3zj60kzlivrv2baf9otj1kuw0m8ru0f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="50%"/>
 </div>&nbsp;
 
 <div id="header" align="center">
@@ -24,16 +24,6 @@
 Hello and Welcome to my code shelf
 
 Stephen is a Cloud and Full Stack Engineer with over half a decade of experience, he has proficiency in architecting scalable cloud infrastructures, automating deployments, and developing responsive web applications. With a strong background in AWS and Web Development, he specializes in Infrastructure as Code, Single Page Applications, CI/CD pipelines, and Containerization. Stephen has worked across multiple industries, including financial services, automotive, and eCommerce.
-
-
-<div style="">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-        <img style="" alt="Github Contribution Stats" width="50%" height="" src="https://github-readme-stats-cmed.vercel.app/api?username=TechStephen&theme=gruvbox&hide_border=true&bg_color=0000" />
-    </a>
-  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img style="" alt="GitHub Streak" width="49%" height="" src="https://github-readme-streak-stats.herokuapp.com?user=TechStephen&theme=gruvbox-duo&hide_border=true&background=45%2CEB545400%2CEB545400" />
-  </a>
-</div>
 
 <br/>
 
