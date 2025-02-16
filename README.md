@@ -1,7 +1,7 @@
 <!------------------HEADER------------------>
 <div id="header" align="center">
   <div>
-Hello Visitors&nbsp;
+Hello Visitors!&nbsp;
   <br/>
   <br/>
 
@@ -59,8 +59,6 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/SASS-black?logo=sass&style=flat" title="SASS" alt="SASS">
             <img src="https://img.shields.io/badge/Tailwind CSS-black?logo=Tailwindcss&style=flat" title="Tailwind CSS" alt="Tailwind CSS"/>
             <img src="https://img.shields.io/badge/Javascript-black?logo=Javascript&style=flat" title="Javascript" alt="Javascript"/>
-            <img src="https://img.shields.io/badge/Storybook-black?logo=Storybook&style=flat" title="storybook" alt="storybook"/>
-            <img src="https://img.shields.io/badge/Axios-black?logo=Axios&style=flat" title="Axios" alt="Axios"/>
         </kbd>
     </p>
     <p>
