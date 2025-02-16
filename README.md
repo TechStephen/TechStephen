@@ -13,9 +13,8 @@
   <a href="www.github.com/techstephen" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Github-black" alt="Github" title="Github" />
   </a>
-  <div />&nbsp;
-  <br/>
-</div>&nbsp;
+  <div />
+</div>
 
 <br/>
 
@@ -36,7 +35,8 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <br>
             <br>
             <img src="https://img.shields.io/badge/AWS S3-05122A?style=flat&logo=amazons3" title="AWS S3"  alt="AWS S3"/>
-            <img src="https://img.shields.io/badge/AWS Lambda-05122A?style=flat&logo=awslambda" title="AWS Lambda"  alt="AWS Lambda"/>
+            <img src="https://img.shields.io/badge/AWS%20EC2-Running-orange?logo=amazonaws" title="AWS EC2"  alt="AWS EC2"/>
+            <img src="https://img.shields.io/badge/AWS Lambda-05122A?style=flat&logo=awslambda" title="AWS Lambda" alt="AWS Lambda"/>
             <img src="https://img.shields.io/badge/AWS CloudWatch-05122A?style=flat&logo=amazoncloudwatch" title="AWS CloudWatch"  alt="AWS CloudWatch"/>
             <img src="https://img.shields.io/badge/Alexa Skill Kit-05122A?style=flat&logo=amazonalexa" title="Alexa Skill Kit"  alt="Alexa Skill Kit"/>
             <img src="https://img.shields.io/badge/Cloudflare-05122A?style=flat&logo=cloudflare" title="Cloudflare"  alt="Cloudflare"/>
