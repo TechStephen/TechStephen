@@ -1,8 +1,9 @@
 <!------------------HEADER------------------>
 <div id="header" align="center">
   <div>
-Hello Visitors
-  <br/>&nbsp;
+Hello Visitors&nbsp;
+  <br/>
+  <br/>
 
   <a href="www.stephenschmitz.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-white?logo=vercel&logoColor=black" alt="Personal Website" title="Personal Portfolio" />
