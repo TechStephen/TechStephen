@@ -1,6 +1,7 @@
 <!------------------HEADER------------------>
 <div id="header" align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosmed.visitor-badge&left_color=black&right_color=black&left_text=Hello%20Visitors" />
+  <br/>&nbsp;
 
   <a href="www.stephenschmitz.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-white?logo=vercel&logoColor=black" alt="Personal Website" title="Personal Portfolio" />
@@ -11,9 +12,8 @@
   <a href="www.github.com/techstephen" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Codepen-white?logo=codepen&logoColor=black" alt="Github" title="Github" />
   </a>
-&nbsp;
 
-  <img src="https://media.giphy.com/media/26vUucK24XyuAy9a0/giphy.gif?cid=790b76115yknv3ilv3zj60kzlivrv2baf9otj1kuw0m8ru0f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="5%"/>
+  <img src="https://media.giphy.com/media/26vUucK24XyuAy9a0/giphy.gif?cid=790b76115yknv3ilv3zj60kzlivrv2baf9otj1kuw0m8ru0f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="20px"/>
 </div>&nbsp;
 
 <br/>
