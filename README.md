@@ -28,10 +28,10 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
 
 <div style="">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-        <img style="" alt="Github Contribution Stats" width="50%" height="" src="https://github-readme-stats-cmed.vercel.app/api?username=carlosmed&theme=gruvbox&hide_border=true&bg_color=0000" />
+        <img style="" alt="Github Contribution Stats" width="50%" height="" src="https://github-readme-stats-cmed.vercel.app/api?username=TechStephen&theme=gruvbox&hide_border=true&bg_color=0000" />
     </a>
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img style="" alt="GitHub Streak" width="49%" height="" src="https://github-readme-streak-stats.herokuapp.com?user=carlosmed&theme=gruvbox-duo&hide_border=true&background=45%2CEB545400%2CEB545400" />
+    <img style="" alt="GitHub Streak" width="49%" height="" src="https://github-readme-streak-stats.herokuapp.com?user=TechStephen&theme=gruvbox-duo&hide_border=true&background=45%2CEB545400%2CEB545400" />
   </a>
 </div>
 
