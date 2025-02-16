@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="www.github.com/techstephen" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codepen-white?logo=codepen&logoColor=black" alt="Github" title="Github" />
+    <img src="https://img.shields.io/badge/Github-black" alt="Github" title="Github" />
   </a>
   <div />&nbsp;
   <br/>
