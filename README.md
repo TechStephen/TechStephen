@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/badge/Codepen-white?logo=codepen&logoColor=black" alt="Github" title="Github" />
   </a>
 
-  <img src="https://media.giphy.com/media/26vUucK24XyuAy9a0/giphy.gif?cid=790b76115yknv3ilv3zj60kzlivrv2baf9otj1kuw0m8ru0f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="20px"/>
+  <br/>
+
+  <img src="https://media.giphy.com/media/26vUucK24XyuAy9a0/giphy.gif?cid=790b76115yknv3ilv3zj60kzlivrv2baf9otj1kuw0m8ru0f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="200px"/>
 </div>&nbsp;
 
 <br/>
-
-Hello and Welcome to my code shelf
 
 Stephen is a Cloud and Full Stack Engineer with over half a decade of experience, he has proficiency in architecting scalable cloud infrastructures, automating deployments, and developing responsive web applications. With a strong background in AWS and Web Development, he specializes in Infrastructure as Code, Single Page Applications, CI/CD pipelines, and Containerization. Stephen has worked across multiple industries, including financial services, automotive, and eCommerce.
 
