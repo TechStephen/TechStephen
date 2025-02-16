@@ -1,7 +1,7 @@
 <!------------------HEADER------------------>
 <div id="header" align="center">
   <div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosmed.visitor-badge&left_color=black&right_color=black&left_text=Hello%20Visitors" />
+### Hello Visitors
   <br/>&nbsp;
 
   <a href="www.stephenschmitz.com" target="_blank" rel="noopener noreferrer">
@@ -94,10 +94,10 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
 <div id="header" align="center">
     <h3> <samp>Thank you for visiting my digital world!</samp></h3>
     <br>
-    <a href="https://www.cmed.dev/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.stephenschmitz.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-white?logo=vercel&logoColor=black" alt="Personal Website" title="Personal Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/carlosmed/" target="_blank" rel="noopener noreferrer">
+    <a href="www.linkedin.com/in/stephen-schmitz-b365bb34a" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
     </a>
     <a href="www.github.com/techstephen" target="_blank" rel="noopener noreferrer">
