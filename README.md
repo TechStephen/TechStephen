@@ -80,7 +80,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git" alt="Git" >
             <img src="https://img.shields.io/badge/Bitbucket-05122A?style=flat&logo=Bitbucket" alt="Bitbucket" >
             <img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script">
-            <img src="https://img.shields.io/badge/Ansible?style=flat&logo=ansible" alt="Figma">
+            <img src="https://img.shields.io/badge/Ansible-05122A?style=flat&logo=ansible" alt="Ansible">
             <img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva" alt="Canva">
         </kbd>
     </p>
