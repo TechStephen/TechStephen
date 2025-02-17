@@ -24,14 +24,18 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <kbd>Cloud</kbd>
             <br>
             <br>
+            <img src="https://img.shields.io/badge/AWS%20EC2?logo=amazonec2" title="AWS EC2"  alt="AWS EC2"/>
+            <img src="https://img.shields.io/badge/AWS%20VPC?logo=amazonvpc" title="AWS VPC"  alt="AWS VPC"/>
+            <img src="https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancinglogo=amazonelasticloadbalancing" title="AWS ALB"  alt="AWS ALB"/>
+            <img src="https://img.shields.io/badge/AWS%20Auto%20Scaling%20Group?style=flat&logo=amazonautoscalinggroup" title="AWS ASG"  alt="AWS ASG"/>
+            <img src="https://img.shields.io/badge/AWS%20Route53?style=flat&logo=amazonroute53" title="AWS Route53"  alt="AWS Route53"/>
             <img src="https://img.shields.io/badge/AWS S3-05122A?style=flat&logo=amazons3" title="AWS S3"  alt="AWS S3"/>
-            <img src="https://img.shields.io/badge/AWS%20EC2-Running-orange?logo=amazonaws" title="AWS EC2"  alt="AWS EC2"/>
-            <img src="https://img.shields.io/badge/AWS Lambda-05122A?style=flat&logo=awslambda" title="AWS Lambda" alt="AWS Lambda"/>
+            <img src="https://img.shields.io/badge/AWS%20ECS?logo=amazonecs" title="AWS ECS"  alt="AWS ECS"/>
+            <img src="https://img.shields.io/badge/AWS%20IAM-05122A?style=flat&logo=awsiam" title="AWS IAM" alt="AWS IAM"/>
             <img src="https://img.shields.io/badge/AWS CloudWatch-05122A?style=flat&logo=amazoncloudwatch" title="AWS CloudWatch"  alt="AWS CloudWatch"/>
-            <img src="https://img.shields.io/badge/Alexa Skill Kit-05122A?style=flat&logo=amazonalexa" title="Alexa Skill Kit"  alt="Alexa Skill Kit"/>
-            <img src="https://img.shields.io/badge/Cloudflare-05122A?style=flat&logo=cloudflare" title="Cloudflare"  alt="Cloudflare"/>
-            <img src="https://img.shields.io/badge/Cloudflare Workers-05122A?style=flat&logo=cloudflareworkers" title="Cloudflare Workers"  alt="Cloudflare Workers"/>
             <img src="https://img.shields.io/badge/Azure-05122A?style=flat" title="Azure"  alt="Azure"/>
+            <img src="https://img.shields.io/badge/Azure%20Virtual%Networks?style=flat&logo=azurevnet" title="Azure VNET"  alt="Azure VNET"/>
+            <img src="https://img.shields.io/badge/Azure%20Web%App?style=flat&logo=azurewebapp" title="Azure Web App"  alt="Azure Web App"/>
         </kbd>
     </p>
     <p>
@@ -70,7 +74,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git" alt="Git" >
             <img src="https://img.shields.io/badge/Bitbucket-05122A?style=flat&logo=Bitbucket" alt="Bitbucket" >
             <img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script">
-            <img src="https://img.shields.io/badge/Figma-05123A?style=flat&logo=Figma" alt="Figma">
+            <img src="https://img.shields.io/badge/Ansible?style=flat&logo=ansible" alt="Figma">
             <img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva" alt="Canva">
         </kbd>
     </p>
