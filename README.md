@@ -1,7 +1,7 @@
 <!------------------HEADER------------------>
 <div id="header" align="center">
   <div>
-Hello Visitors!&nbsp;
+Hello Visitors&nbsp;
   <br/>
   <div />
 </div>
