@@ -26,7 +26,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <br>
             <img src="https://img.shields.io/badge/AWS EC2-05122A?style=flat&logo=amazonec2" title="AWS EC2"  alt="AWS EC2"/>
             <img src="https://img.shields.io/badge/AWS VPC-05122A?style=flat&logo=amazonvpc" title="AWS VPC"  alt="AWS VPC"/>
-            <img src="https://img.shields.io/badge/AWS ALB-05122A?style=flat&logo=amazonlasticloadbalancing" title="AWS ALB"  alt="AWS ALB"/>
+            <img src="https://img.shields.io/badge/AWS ALB-05122A?style=flat&logo=awselasticloadbalancing" title="AWS ALB"  alt="AWS ALB"/>
             <img src="https://img.shields.io/badge/AWS ASG-05122A?style=flat&logo=amazonautoscalinggroup" title="AWS ASG"  alt="AWS ASG"/>
             <img src="https://img.shields.io/badge/AWS Route53-05122A?style=flat&logo=amazonroute53 title="AWS Route53"  alt="AWS Route53"/>
             <img src="https://img.shields.io/badge/AWS S3-05122A?style=flat&logo=amazons3" title="AWS S3"  alt="AWS S3"/>
