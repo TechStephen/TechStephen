@@ -31,6 +31,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/AWS ECS-05122A?style=flat&logo=amazonecs" title="AWS ECS"  alt="AWS ECS"/>
             <img src="https://img.shields.io/badge/AWS Fargate-05122A?style=flat&logo=awsfargate" title="AWS Fargate"  alt="AWS Fargate"/>
             <img src="https://img.shields.io/badge/AWS DynamoDB-05122A?style=flat&logo=amazondynamodb" title="AWS DynamoDB"  alt="AWS DynamoDB"/>
+            <img src="https://img.shields.io/badge/AWS RDS-05122A?style=flat&logo=amazonrds" title="AWS RDS"  alt="AWS RDS"/>
             <img src="https://img.shields.io/badge/AWS IAM-05122A?style=flat&logo=amazoniam" title="AWS IAM" alt="AWS IAM"/>
             <img src="https://img.shields.io/badge/AWS Secrets%20Manager-05122A?style=flat&logo=awssecretsmanager" title="AWS Secrets Manager" alt="AWS Secrets Manager"/>
             <img src="https://img.shields.io/badge/AWS Organizations-05122A?style=flat&logo=awsorganizations" title="AWS Organizations" alt="AWS Organizations"/>
@@ -38,35 +39,8 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/Azure-05122A?style=flat&logo=azure title="Azure"  alt="Azure"/>
             <img src="https://img.shields.io/badge/Azure VNET-05122A?style=flat&logo=azurevnet" title="Azure VNET"  alt="Azure VNET"/>
             <img src="https://img.shields.io/badge/Azure WebApp-05122A?style=flat&logo=azurewebapp" title="Azure Web App"  alt="Azure Web App"/>
-            <img src="https://img.shields.io/badge/Azure KeyValue-05122A?style=flat&logo=azurekeyvalut" title="Azure Key Vault"  alt="Azure Key Vault"/>
-        </kbd>
-    </p>
-    <p>
-        <kbd>
-            <kbd>Front-End</kbd>
-            <br>
-            <br>
-            <img src="https://img.shields.io/badge/React-black?style=flat&logo=react" title="React" alt="React">
-            <img src="https://img.shields.io/badge/Vite-black?style=flat&logo=Vite" title="Vite" alt="Vite">
-            <img src="https://img.shields.io/badge/Vitest-black?style=flat&logo=Vitest" title="Vitest" alt="Vitest">
-            <img src="https://img.shields.io/badge/Typescript-black?logo=typescript&style=flat" title="Typescript" alt="Typescript">
-            <img src="https://img.shields.io/badge/HTML-black?logo=html5&style=flat" title="HTML5" alt="HTML"/>
-            <img src="https://img.shields.io/badge/CSS-black?logo=css3&style=flat" title="CSS3" alt="CSS"/>
-            <img src="https://img.shields.io/badge/SASS-black?logo=sass&style=flat" title="SASS" alt="SASS">
-            <img src="https://img.shields.io/badge/Tailwind CSS-black?logo=Tailwindcss&style=flat" title="Tailwind CSS" alt="Tailwind CSS"/>
-            <img src="https://img.shields.io/badge/Javascript-black?logo=Javascript&style=flat" title="Javascript" alt="Javascript"/>
-        </kbd>
-    </p>
-    <p>
-        <kbd>
-            <kbd>Back-End</kbd>
-            <br>
-            <br>
-            <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js" title="Next.js" alt="Next.js"/>
-            <img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js" title="NodeJS" alt="NodeJS"/>
-            <img src="https://img.shields.io/badge/Express-05122A?style=flat&logo=Express" title="Express" alt="Express" />
-            <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql" title="MySQL"  alt="MySQL"/>
-            <img src="https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase" title="Firebase"  alt="Firebase"/>
+            <img src="https://img.shields.io/badge/Azure KeyValue-05122A?style=flat&logo=azurekeyvault" title="Azure Key Vault"  alt="Azure Key Vault"/>
+            <img src="https://img.shields.io/badge/Azure DNS-05122A?style=flat&logo=azurednszone" title="Azure DNS"  alt="Azure Key DNS"/>
         </kbd>
     </p>
     <p>
@@ -79,6 +53,27 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script">
             <img src="https://img.shields.io/badge/Ansible-05122A?style=flat&logo=ansible" alt="Ansible">
             <img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva" alt="Canva">
+        </kbd>
+    </p>
+    <p>
+        <kbd>
+            <kbd>Languages and Frameworks</kbd>
+            <br>
+            <br>
+            <img src="https://img.shields.io/badge/React-black?style=flat&logo=react" title="React" alt="React">
+            <img src="https://img.shields.io/badge/Vite-black?style=flat&logo=Vite" title="Vite" alt="Vite">
+            <img src="https://img.shields.io/badge/Vitest-black?style=flat&logo=Vitest" title="Vitest" alt="Vitest">
+            <img src="https://img.shields.io/badge/Typescript-black?logo=typescript&style=flat" title="Typescript" alt="Typescript">
+            <img src="https://img.shields.io/badge/HTML-black?logo=html5&style=flat" title="HTML5" alt="HTML"/>
+            <img src="https://img.shields.io/badge/CSS-black?logo=css3&style=flat" title="CSS3" alt="CSS"/>
+            <img src="https://img.shields.io/badge/SASS-black?logo=sass&style=flat" title="SASS" alt="SASS">
+            <img src="https://img.shields.io/badge/Tailwind CSS-black?logo=Tailwindcss&style=flat" title="Tailwind CSS" alt="Tailwind CSS"/>
+            <img src="https://img.shields.io/badge/Javascript-black?logo=Javascript&style=flat" title="Javascript" alt="Javascript"/>
+            <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js" title="Next.js" alt="Next.js"/>
+            <img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js" title="NodeJS" alt="NodeJS"/>
+            <img src="https://img.shields.io/badge/Express-05122A?style=flat&logo=Express" title="Express" alt="Express" />
+            <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql" title="MySQL"  alt="MySQL"/>
+            <img src="https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase" title="Firebase"  alt="Firebase"/>
         </kbd>
     </p>
 </div>
