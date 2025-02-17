@@ -24,18 +24,18 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <kbd>Cloud</kbd>
             <br>
             <br>
-            <img src="https://img.shields.io/badge/AWS%20EC2&logo=amazonec2" title="AWS EC2"  alt="AWS EC2"/>
-            <img src="https://img.shields.io/badge/AWS%20VPC&logo=amazonvpc" title="AWS VPC"  alt="AWS VPC"/>
-            <img src="https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing&logo=amazonelasticloadbalancing" title="AWS ALB"  alt="AWS ALB"/>
-            <img src="https://img.shields.io/badge/AWS%20Auto%20Scaling%20Group?style=flat&logo=amazonautoscalinggroup" title="AWS ASG"  alt="AWS ASG"/>
-            <img src="https://img.shields.io/badge/AWS%20Route53?style=flat&logo=amazonroute53 title="AWS Route53"  alt="AWS Route53"/>
+            <img src="https://img.shields.io/badge/AWS EC2-05122A?style=flat&logo=amazonec2" title="AWS EC2"  alt="AWS EC2"/>
+            <img src="https://img.shields.io/badge/AWS VPC-05122A?style=flat&logo=amazonvpc" title="AWS VPC"  alt="AWS VPC"/>
+            <img src="https://img.shields.io/badge/AWS ALB-05122A?style=flat&logo=amazonelasticloadbalancing" title="AWS ALB"  alt="AWS ALB"/>
+            <img src="https://img.shields.io/badge/AWS ASG-05122A?style=flat?&logo=amazonautoscalinggroup" title="AWS ASG"  alt="AWS ASG"/>
+            <img src="https://img.shields.io/badge/AWS Route53-05122A?style=flat&logo=amazonroute53 title="AWS Route53"  alt="AWS Route53"/>
             <img src="https://img.shields.io/badge/AWS S3-05122A?style=flat&logo=amazons3" title="AWS S3"  alt="AWS S3"/>
-            <img src="https://img.shields.io/badge/AWS%20ECS&logo=amazonecs" title="AWS ECS"  alt="AWS ECS"/>
-            <img src="https://img.shields.io/badge/AWS%20IAM-05122A?style=flat&logo=awsiam" title="AWS IAM" alt="AWS IAM"/>
+            <img src="https://img.shields.io/badge/AWS ECS-05122A?style=flat&logo=amazonecs" title="AWS ECS"  alt="AWS ECS"/>
+            <img src="https://img.shields.io/badge/AWS IAM-05122A?style=flat&logo=amazoniam" title="AWS IAM" alt="AWS IAM"/>
             <img src="https://img.shields.io/badge/AWS CloudWatch-05122A?style=flat&logo=amazoncloudwatch" title="AWS CloudWatch"  alt="AWS CloudWatch"/>
-            <img src="https://img.shields.io/badge/Azure-05122A?style=flat" title="Azure"  alt="Azure"/>
-            <img src="https://img.shields.io/badge/Azure%20Virtual%Networks?style=flat&logo=azurevnet" title="Azure VNET"  alt="Azure VNET"/>
-            <img src="https://img.shields.io/badge/Azure%20Web%App?style=flat&logo=azurewebapp" title="Azure Web App"  alt="Azure Web App"/>
+            <img src="https://img.shields.io/badge/Azure-05122A?style=flat&logo=azure title="Azure"  alt="Azure"/>
+            <img src="https://img.shields.io/badge/Azure VNET-05122A?style=flat&logo=azurevnet" title="Azure VNET"  alt="Azure VNET"/>
+            <img src="https://img.shields.io/badge/Azure WebApp-05122A?style=flat&logo=azurewebapp" title="Azure Web App"  alt="Azure Web App"/>
         </kbd>
     </p>
     <p>
