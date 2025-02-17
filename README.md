@@ -85,6 +85,8 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
 </div>
 <br>
 
+---
+
 <!------------------Footer------------------>
 <!------------------About Me------------------>
 
