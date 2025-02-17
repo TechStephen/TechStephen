@@ -24,6 +24,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <kbd>Cloud</kbd>
             <br>
             <br>
+            <img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonwebservices" title="AWS"  alt="AWS"/>  
             <img src="https://img.shields.io/badge/AWS EC2-05122A?style=flat&logo=amazonec2" title="AWS EC2"  alt="AWS EC2"/>
             <img src="https://img.shields.io/badge/AWS VPC-05122A?style=flat&logo=amazonvpc" title="AWS VPC"  alt="AWS VPC"/>
             <img src="https://img.shields.io/badge/AWS ALB-05122A?style=flat&logo=awselasticloadbalancing" title="AWS ALB"  alt="AWS ALB"/>
@@ -32,6 +33,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/AWS S3-05122A?style=flat&logo=amazons3" title="AWS S3"  alt="AWS S3"/>
             <img src="https://img.shields.io/badge/AWS ECS-05122A?style=flat&logo=amazonecs" title="AWS ECS"  alt="AWS ECS"/>
             <img src="https://img.shields.io/badge/AWS Fargate-05122A?style=flat&logo=awsfargate" title="AWS Fargate"  alt="AWS Fargate"/>
+            <img src="https://img.shields.io/badge/AWS DynamoDB-05122A?style=flat&logo=awsdynamodb" title="AWS DynamoDB"  alt="AWS DynamoDB"/>
             <img src="https://img.shields.io/badge/AWS IAM-05122A?style=flat&logo=amazoniam" title="AWS IAM" alt="AWS IAM"/>
             <img src="https://img.shields.io/badge/AWS Secrets%20Manager-05122A?style=flat&logo=awssecretsmanager" title="AWS Secrets Manager" alt="AWS Secrets Manager"/>
             <img src="https://img.shields.io/badge/AWS Organizations-05122A?style=flat&logo=awsorganizations" title="AWS Organizations" alt="AWS Organizations"/>
