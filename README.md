@@ -3,23 +3,12 @@
   <div>
 Hello Visitors!&nbsp;
   <br/>
-  <br/>
-
-  <a href="www.stephenschmitz.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-white?logo=vercel&logoColor=black" alt="Personal Website" title="Personal Portfolio" />
-  </a>
-  <a href="www.linkedin.com/in/stephen-schmitz-b365bb34a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  <a href="www.github.com/techstephen" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Github-black" alt="Github" title="Github" />
-  </a>
   <div />
 </div>
 
 <br/>
 
-Stephen is a Cloud and Full Stack Engineer with over half a decade of experience, he has proficiency in architecting scalable cloud infrastructures, automating deployments, and developing responsive web applications. With a strong background in AWS and Web Development, he specializes in Infrastructure as Code, Single Page Applications, CI/CD pipelines, and Containerization. Stephen has worked across multiple industries, including financial services, automotive, and eCommerce.
+Stephen is a Cloud and Full Stack Engineer with over half a decade of experience. He specializes in architecting scalable cloud infrastructures, automating deployments, and developing responsive web applications. With a strong background in AWS and web development, he focuses on Infrastructure as Code, Single Page Applications, CI/CD pipelines, and containerization. Stephen has worked across multiple industries, including financial services, automotive, and eCommerce.
 
 ---
 
