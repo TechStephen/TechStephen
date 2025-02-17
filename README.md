@@ -97,7 +97,6 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
 
 <!------------------Footer------------------>
 <div id="header" align="center">
-
     <a href="https://www.stephenschmitz.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-white?logo=vercel&logoColor=black" alt="Personal Website" title="Personal Portfolio" />
     </a>
