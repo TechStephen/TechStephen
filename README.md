@@ -18,7 +18,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
 <div>
    <p>
         <kbd>
-            <kbd>Cloud</kbd>
+            <kbd>Cloud Providers & Service (most notable)</kbd>
             <br>
             <br>
             <img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonwebservices" title="AWS"  alt="AWS"/>  
@@ -45,19 +45,21 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
     </p>
     <p>
         <kbd>
-            <kbd>Software and Tools</kbd>
+            <kbd>Tools & Automation</kbd>
             <br>
             <br>
-            <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git" alt="Git" >
-            <img src="https://img.shields.io/badge/Bitbucket-05122A?style=flat&logo=Bitbucket" alt="Bitbucket" >
-            <img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script">
+            <img src="https://img.shields.io/badge/Terraform-05122A?style=flat&logo=terraform" alt="Terraform">
+            <img src="https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=jenkins" alt="Jenkins">
             <img src="https://img.shields.io/badge/Ansible-05122A?style=flat&logo=ansible" alt="Ansible">
-            <img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva" alt="Canva">
+            <img src="https://img.shields.io/badge/NGINX-05122A?style=flat&logo=nginx" alt="NGINX">
+            <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
+            <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git" alt="Git" >
+            <img src="https://img.shields.io/badge/Bitbucket-05122A?style=flat&logo=Bitbucket" alt="Bitbucket">
         </kbd>
     </p>
     <p>
         <kbd>
-            <kbd>Languages and Frameworks</kbd>
+            <kbd>Programming Languages and Frameworks</kbd>
             <br>
             <br>
             <img src="https://img.shields.io/badge/React-black?style=flat&logo=react" title="React" alt="React">
