@@ -72,7 +72,6 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/Typescript-black?logo=typescript&style=flat" title="Typescript" alt="Typescript">
             <img src="https://img.shields.io/badge/HTML-black?logo=html5&style=flat" title="HTML5" alt="HTML"/>
             <img src="https://img.shields.io/badge/CSS-black?logo=css3&style=flat" title="CSS3" alt="CSS"/>
-            <img src="https://img.shields.io/badge/SASS-black?logo=sass&style=flat" title="SASS" alt="SASS">
             <img src="https://img.shields.io/badge/Tailwind CSS-black?logo=Tailwindcss&style=flat" title="Tailwind CSS" alt="Tailwind CSS"/>
             <img src="https://img.shields.io/badge/Javascript-black?logo=Javascript&style=flat" title="Javascript" alt="Javascript"/>
             <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js" title="Next.js" alt="Next.js"/>
