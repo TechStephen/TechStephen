@@ -5,16 +5,9 @@
 
 ### About Me:
 
+3x Professionally Certified AWS Solutions Architect 
+
 Stephen is a Cloud and Full Stack Engineer with over half a decade of experience. He specializes in architecting scalable cloud infrastructures, automating deployments, and developing responsive web applications. With a strong background in AWS and web development, he focuses on Infrastructure as Code, Single Page Applications, CI/CD pipelines, and containerization. Stephen has worked across multiple industries, including financial services, automotive, and eCommerce.
-
----
-
-<!------------------About Me------------------>
-
-### Certifications:
-
-* AWS Certified Solutions Architect - Associate (SAA-C03)
-* AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
 
@@ -96,7 +89,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
 
 ---
 
-<!------------------About Me------------------>
+<!------------------Thanks------------------>
 <div id="header" align="center">
 
 ### Thanks for Visiting
