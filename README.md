@@ -9,6 +9,15 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
 
 ---
 
+<!------------------About Me------------------>
+
+### Certifications:
+
+* AWS Certified Solutions Architect - Associate (SAA-C03)
+* AWS Certified Cloud Practitioner (CLF-C02)
+
+---
+
 <!------------------Languages & Tools------------------>
 
 ### Languages and Tools:
