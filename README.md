@@ -11,7 +11,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
 
 <!------------------Languages & Tools------------------>
 
-### Languages and Tools:
+### Programming Languages and Tools:
 
 <br />
 
