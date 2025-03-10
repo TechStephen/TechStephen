@@ -63,7 +63,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
     </p>
     <p>
         <kbd>
-            <kbd>Programming Languages and Frameworks</kbd>
+            <kbd>Languages and Frameworks</kbd>
             <br>
             <br>
             <img src="https://img.shields.io/badge/React-black?style=flat&logo=react" title="React" alt="React">
