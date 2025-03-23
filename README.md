@@ -54,6 +54,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/YAML-05122A?style=flat&logo=yaml" alt="YAML">
             <img src="https://img.shields.io/badge/Ansible-05122A?style=flat&logo=ansible" alt="Ansible">
             <img src="https://img.shields.io/badge/NGINX-05122A?style=flat&logo=nginx" alt="NGINX">
+            <img src="https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes" alt="Kubernetes">
             <img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux" alt="Linux">
             <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
             <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git" alt="Git" >
