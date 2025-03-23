@@ -71,6 +71,7 @@ Stephen is a Cloud and Full Stack Engineer with over half a decade of experience
             <img src="https://img.shields.io/badge/Vite-black?style=flat&logo=Vite" title="Vite" alt="Vite">
             <img src="https://img.shields.io/badge/Vitest-black?style=flat&logo=Vitest" title="Vitest" alt="Vitest">
             <img src="https://img.shields.io/badge/Typescript-black?logo=typescript&style=flat" title="Typescript" alt="Typescript">
+            <img src="https://img.shields.io/badge/Python-black?logo=python&style=flat" title="Python" alt="Python">
             <img src="https://img.shields.io/badge/HTML-black?logo=html5&style=flat" title="HTML5" alt="HTML"/>
             <img src="https://img.shields.io/badge/CSS-black?logo=css3&style=flat" title="CSS3" alt="CSS"/>
             <img src="https://img.shields.io/badge/Tailwind CSS-black?logo=Tailwindcss&style=flat" title="Tailwind CSS" alt="Tailwind CSS"/>
