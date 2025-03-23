@@ -5,7 +5,7 @@
 
 ### About Me:
 
-Stephen is a Cloud and Full Stack Engineer with over half a decade of experience. He specializes in architecting scalable cloud infrastructures, automating deployments, and developing responsive web applications. With a strong background in AWS and web development, he focuses on Infrastructure as Code, Single Page Applications, CI/CD pipelines, and containerization. Stephen has worked across multiple industries, including financial services, automotive, and eCommerce.
+Cloud and Full Stack Engineer with over half a decade of experience with Fortune 500 companies across Financial Services, Digital Strategy, and eCommerce. Proven expertise in AWS and Web Development, specializing in architecting Scalable Cloud Infrastructures, implementing CI/CD pipelines, Infrastructure as Code (IaC), Containerization, and developing Responsive Web Applications.
 
 ---
 
