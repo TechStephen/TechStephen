@@ -39,7 +39,7 @@ Cloud and Full Stack Engineer with over half a decade of experience with Fortune
             <img src="https://img.shields.io/badge/Azure-05122A?style=flat&logo=azure title="Azure"  alt="Azure"/>
             <img src="https://img.shields.io/badge/Azure VNET-05122A?style=flat&logo=azurevnet" title="Azure VNET"  alt="Azure VNET"/>
             <img src="https://img.shields.io/badge/Azure WebApp-05122A?style=flat&logo=azurewebapp" title="Azure Web App"  alt="Azure Web App"/>
-            <img src="https://img.shields.io/badge/Azure KeyValue-05122A?style=flat&logo=azurekeyvault" title="Azure Key Vault"  alt="Azure Key Vault"/>
+            <img src="https://img.shields.io/badge/Azure KeyVault-05122A?style=flat&logo=azurekeyvault" title="Azure Key Vault"  alt="Azure Key Vault"/>
             <img src="https://img.shields.io/badge/Azure DNS-05122A?style=flat&logo=azurednszone" title="Azure DNS"  alt="Azure DNS"/>
             <img src="https://img.shields.io/badge/Azure DevOps-05122A?style=flat&logo=azuredevops" title="Azure DevOps"  alt="Azure DevOps"/>
         </kbd>
