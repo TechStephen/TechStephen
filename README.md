@@ -36,6 +36,7 @@ Cloud and Full Stack Engineer with over half a decade of experience with Fortune
             <img src="https://img.shields.io/badge/AWS Secrets%20Manager-05122A?style=flat&logo=awssecretsmanager" title="AWS Secrets Manager" alt="AWS Secrets Manager"/>
             <img src="https://img.shields.io/badge/AWS Organizations-05122A?style=flat&logo=awsorganizations" title="AWS Organizations" alt="AWS Organizations"/>
             <img src="https://img.shields.io/badge/AWS CloudWatch-05122A?style=flat&logo=amazoncloudwatch" title="AWS CloudWatch"  alt="AWS CloudWatch"/>
+            <img src="https://img.shields.io/badge/Azure-05122A?style=flat&logo=azure title="Azure"  alt="Azure"/>
             <img src="https://img.shields.io/badge/Azure VNET-05122A?style=flat&logo=azurevnet" title="Azure VNET"  alt="Azure VNET"/>
             <img src="https://img.shields.io/badge/Azure WebApp-05122A?style=flat&logo=azurewebapp" title="Azure Web App"  alt="Azure Web App"/>
             <img src="https://img.shields.io/badge/Azure KeyVault-05122A?style=flat&logo=azurekeyvault" title="Azure Key Vault"  alt="Azure Key Vault"/>
