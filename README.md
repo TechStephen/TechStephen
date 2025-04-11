@@ -27,6 +27,7 @@ Cloud and Full Stack Engineer with over half a decade of experience with Fortune
             <img src="https://img.shields.io/badge/AWS ALB-05122A?style=flat&logo=awselasticloadbalancing" title="AWS ALB"  alt="AWS ALB"/>
             <img src="https://img.shields.io/badge/AWS ASG-05122A?style=flat&logo=amazonautoscalinggroup" title="AWS ASG"  alt="AWS ASG"/>
             <img src="https://img.shields.io/badge/AWS S3-05122A?style=flat&logo=amazons3" title="AWS S3"  alt="AWS S3"/>
+            <img src="https://img.shields.io/badge/AWS Route53-05122A?style=flat&logo=amazonroute53" title="AWS Route53"  alt="AWS Route53"/>
             <img src="https://img.shields.io/badge/AWS ECS-05122A?style=flat&logo=amazonecs" title="AWS ECS"  alt="AWS ECS"/>
             <img src="https://img.shields.io/badge/AWS Fargate-05122A?style=flat&logo=awsfargate" title="AWS Fargate"  alt="AWS Fargate"/>
             <img src="https://img.shields.io/badge/AWS DynamoDB-05122A?style=flat&logo=amazondynamodb" title="AWS DynamoDB"  alt="AWS DynamoDB"/>
