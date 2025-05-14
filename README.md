@@ -5,7 +5,7 @@
 
 ### About Me:
 
-Cloud and Full Stack Engineer with over half a decade of experience with Fortune 500 companies across Financial Services, Digital Strategy, and eCommerce. Proven expertise in AWS and Web Development, specializing in architecting Scalable Cloud Infrastructures, implementing CI/CD pipelines, Infrastructure as Code (IaC), Containerization, and developing Responsive Web Applications.
+DevOps and Cloud Engineer with over half a decade of experience in Fortune 500 companies across Financial Services, Digital Strategy, and eCommerce. Proven expertise in Cloud and Web Development, specializing in architecting Scalable Cloud Infrastructures, implementing CI/CD pipelines, Infrastructure as Code, Containerization, and developing Responsive Web Applications.
 
 ---
 
@@ -64,7 +64,7 @@ Cloud and Full Stack Engineer with over half a decade of experience with Fortune
     </p>
     <p>
         <kbd>
-            <kbd>Programming Languages and Frameworks</kbd>
+            <kbd>Languages and Frameworks</kbd>
             <br>
             <br>
             <img src="https://img.shields.io/badge/React-black?style=flat&logo=react" title="React" alt="React">
