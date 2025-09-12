@@ -64,7 +64,7 @@ DevOps and Cloud Engineer with over half a decade of experience in Fortune 500 c
     </p>
     <p>
         <kbd>
-            <kbd>Programming Languages & Frameworks</kbd>
+            <kbd>Languages & Frameworks</kbd>
             <br>
             <br>
             <img src="https://img.shields.io/badge/React-black?style=flat&logo=react" title="React" alt="React">
